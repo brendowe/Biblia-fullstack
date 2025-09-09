@@ -6,7 +6,7 @@ O front-end foi criado com auxílio de IA apenas para consumir e exibir os dados
 
 ## 🏗️ Estrutura do projeto
 
-Biblia-fullstack/
+Biblia-fullstack/  
 ├── backend/        # Back-end em Node.js (Express)  
 ├── frontend/       # Front-end simples para consumir a API  
 ├── README.md       # Este arquivo
