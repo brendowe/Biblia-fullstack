@@ -37,13 +37,13 @@ O back-end precisa de um arquivo .env na pasta backend com as chaves da API priv
 ## 🚀 Como rodar o projeto
 
 ### Faça uma cópia do projeto
-- Clonar via Git
-`git clone https://github.com/brendowe/Biblia-fullstack.git`
-- Ou baixar o zip
-  1. Clique em Code
-  2. Download ZIP no GitHub
-  3. Extraia o arquivo em uma pasta na sua máquina
-  4. 
+#### Clonar via Git  
+`git clone https://github.com/brendowe/Biblia-fullstack.git`  
+#### Ou baixar o zip  
+- Clique em Code
+- Download ZIP no GitHub
+- Extraia o arquivo em uma pasta na sua máquina
+-  
 ### <mark>Back-end</mark>
 #### Abra o terminal e navegue até a pasta do back-end:
 `cd Biblia-fullstack/backend`
