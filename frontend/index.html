@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bíblia</title>
+    <link rel="stylesheet" href="style/main.css" />
+  </head>
+  <body>
+    <main>
+      <div id="main-container" class="main-container">
+        <div>
+          <h2>Alianças</h2>
+          <select name="testament" id="testament" class="testament">
+            <option value="Velho Testamento">Velho Testamento</option>
+            <option value="Novo Testamento">Novo Testamento</option>
+          </select>
+        </div>
+
+        <div>
+          <h2>Livros</h2>
+          <select name="oldT" id="oldT" class="oldT"></select>
+          <select name="newT" id="newT" class="newT-disable"></select>
+        </div>
+
+        <div>
+          <h2>Capitulos</h2>
+          <select name="chapters" id="chapters"></select>
+        </div>
+
+        
+      </div>
+      <div id="resultado" class="resultado"></div>
+    </main>
+
+    <script src="script/main.js" type="module"></script>
+  </body>
+</html>
