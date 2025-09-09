@@ -43,7 +43,7 @@ O back-end precisa de um arquivo .env na pasta backend com as chaves da API priv
 - Clique em Code
 - Download ZIP no GitHub
 - Extraia o arquivo em uma pasta na sua máquina
--  
+  
 ### <mark>Back-end</mark>
 #### Abra o terminal e navegue até a pasta do back-end:
 `cd Biblia-fullstack/backend`
