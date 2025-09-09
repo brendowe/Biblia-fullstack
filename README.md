@@ -31,8 +31,8 @@ Biblia-fullstack/
 
 O back-end precisa de um arquivo .env na pasta backend com as chaves da API privada.
 
-`KEYAPI=SUA_CHAVE_AQUI  
-PORT=3000`
+`KEYAPI=SUA_CHAVE_AQUI`  
+`PORT=3000`
 
 ## 🚀 Como rodar o projeto
 ### Back-end
@@ -49,10 +49,10 @@ O servidor estará disponível em `http://localhost:3000/api`
 `cd Biblia-fullstack/frontend`
 #### Rode o servidor HTTP local usando npx
 `npx http-server .`
-Responda “Y” se o npx perguntar para instalar temporariamente o pacote.
+Responda “Y” se o npx perguntar para instalar temporariamente o pacote.  
 O Front estará disponível em `http://127.0.0.1:8080`
 
-##Observações
+## Observações
 
 - O front-end foi criado com auxílio de IA apenas para consumir a API.
 - O foco do projeto é demonstrar habilidades em back-end.
