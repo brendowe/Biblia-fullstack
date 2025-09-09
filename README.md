@@ -35,7 +35,16 @@ O back-end precisa de um arquivo .env na pasta backend com as chaves da API priv
 `PORT=3000`
 
 ## 🚀 Como rodar o projeto
-### Back-end
+
+### Faça uma cópia do projeto
+- Clonar via Git
+`git clone https://github.com/brendowe/Biblia-fullstack.git`
+- Ou baixar o zip
+  1. Clique em Code
+  2. Download ZIP no GitHub
+  3. Extraia o arquivo em uma pasta na sua máquina
+  4. 
+### <mark>Back-end</mark>
 #### Abra o terminal e navegue até a pasta do back-end:
 `cd Biblia-fullstack/backend`
 #### Instale as dependências
@@ -44,7 +53,7 @@ O back-end precisa de um arquivo .env na pasta backend com as chaves da API priv
 `npm start`
 O servidor estará disponível em `http://localhost:3000/api`
 
-### Front-end
+### <mark>Front-end</mark>
 #### Abra outro terminal e navegue até a pasta do front-end
 `cd Biblia-fullstack/frontend`
 #### Rode o servidor HTTP local usando npx
@@ -54,7 +63,7 @@ Responda “Y” se o npx perguntar para instalar temporariamente o pacote.
 
 O Front estará disponível em `http://127.0.0.1:8080`
 
-## Observações
+## 💡 Observações
 
 - O front-end foi criado com auxílio de IA apenas para consumir a API.
 - O foco do projeto é demonstrar habilidades em back-end.
