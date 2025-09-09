@@ -49,6 +49,7 @@ O servidor estará disponível em `http://localhost:3000/api`
 `cd Biblia-fullstack/frontend`
 #### Rode o servidor HTTP local usando npx
 `npx http-server .`  
+
 Responda “Y” se o npx perguntar para instalar temporariamente o pacote.  
 
 O Front estará disponível em `http://127.0.0.1:8080`
